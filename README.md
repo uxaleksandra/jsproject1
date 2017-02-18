@@ -1,3 +1,3 @@
-﻿# jsproject2
+﻿# jsproject1
 js 
-zadanie2 "8.2.Zadanie: Pierwszy skrypt"
+zadanie "8.2.Zadanie: Pierwszy skrypt"
